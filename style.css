@@ -71,7 +71,7 @@ nav ul li:last-child a:hover{
 
 /*CONTENT*/
 .content{
-    width: 50vh;
+    width: 100vh;
     height: 100vh;
     position: relative;
     display: flex;
