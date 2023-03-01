@@ -1,3 +1,3 @@
 # AnimationPizza
  
- <a href="https://luiizmiranda.github.io/AnimationPizza/">Aperte aqui para abrir o site</a>
+ <a href="https://luiizmiranda.github.io/AnimationPizza/">Click aqui para abrir o site</a>
